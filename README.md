@@ -1,6 +1,8 @@
-# Dang (DankDaPancake)
+# ☕ AleksanBrew (Dang)
 
-I build practical, learning-driven software across **web apps**, **real-time systems**, and **C++ projects**—with a focus on turning messy real-world inputs into clean, usable products.
+**Sophomore IT Student @ [Your University] | AI & Full-Stack Developer**
+
+I’m a developer who treats software like a perfect milk coffee: it needs a **strong foundational core** (systems & logic) balanced with a **smooth, accessible finish** (UX & Web). I specialize in "brewing" raw data and messy inputs into clean, practical signals.
 
 # 💫 About Me:
 🔭 I’m currently working on landing a spot in Artificial Intelligence Major<br>👯 I’m looking to collaborate on all fields, including businesses, entertainments, .etc<br>🤝 I’m looking for help with learning new stacks, social networking and profile building.<br>🌱 I’m currently learning to be involved in project management and IT operations.<br>💬 Ask me about competitive programming, game development and problem solving in various IT fields.<br>⚡ Fun fact: I was once in Informatics class in High School for the Gifted, VNU-HCM (2021-2024).
@@ -27,56 +29,49 @@ I build practical, learning-driven software across **web apps**, **real-time sys
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Featured Projects
+---
 
-### 🌍 Tourgether — B2B platform for tourism hiring (collaboration)
-A two-sided platform that helps **newly graduated tourism students** get their first guiding gigs while enabling **tour companies** to evaluate candidates with real performance signals.
-- Role-based dashboards for **Guides** and **Organizations**
-- Tour listings + itinerary building + application management
-- **AI feedback loop** (Gemini) that turns raw traveler feedback (images/PDF/text) into professional summaries + sentiment scores
-- Community feed for networking and updates  
-Repo: https://github.com/NgTHung/Tourgether  
-Live: https://tourgether-rosy.vercel.app
+## 🛠️ The Roastery (Featured Projects)
 
-### 📡 SSE Telemetry Prototype — real-time state updates (NestJS + Vue)
-A real-time prototype demonstrating **Server-Sent Events (SSE)** for broadcasting live state updates to many clients while clients send actions via standard HTTP requests.
-- Server maintains in-memory “source of truth” state
-- Broadcasts updates via SSE streams
-- Uses RxJS patterns for state management  
-Repo: https://github.com/DankDaPancake/sse-telemetry-prototype
+### 🌍 Tourgether | *The Full-Bodied Blend*
+**B2B Platform for Tourism Hiring** Connecting newly graduated guides with tour companies through AI-driven insights.
+- **The Core:** Role-based dashboards & itinerary management (Next.js + NestJS).
+- **The Perk:** An **AI Feedback Loop** (Gemini) that distills raw traveler sentiment into professional summaries.
+- [Repo](https://github.com/NgTHung/Tourgether) | [Live Demo](https://tourgether-rosy.vercel.app)
 
-### 📧 Email Tracking PoC — analytics beyond opens/clicks
-A research/education-focused proof of concept for measuring email engagement in more detail than typical trackers.
-- Open + click tracking, click location (“heatmap”) tagging
-- “Real read time” sessions to classify skim vs read
-- Dark mode detection + bot/scanner honeypot links
-- SQLite-backed event logging + live dashboard  
-Repo: https://github.com/DankDaPancake/email-tracking-poc
+### 📡 SSE Telemetry Prototype | *Real-time Infusion*
+**Live State Synchronization (NestJS + Vue)** A proof-of-concept for broadcasting high-frequency state updates to multiple clients.
+- Uses **Server-Sent Events (SSE)** for a "constant pour" of data.
+- Implements RxJS patterns to maintain a single source of truth.
+- [Repo](https://github.com/DankDaPancake/sse-telemetry-prototype)
 
-### 📚 Library Management System — OOP + patterns design project (C++)
-An electronic library management system design emphasizing **clean architecture and extensibility**.
-- Users (members/librarians), books, loans, search, overdue handling
-- Applies classic patterns (Strategy/Observer/Decorator) to structure features like search, notifications, and enriched book metadata  
-Repo: https://github.com/DankDaPancake/LibraryManagementSystem
+### 📧 Email Tracking PoC | *The Analytics Extraction*
+**Advanced Engagement Research** Measuring the "flavor profile" of email interactions beyond simple clicks.
+- Features: Real read-time sessions, dark mode detection, and honeypot links.
+- Classifies user behavior (Skim vs. Read) using SQLite-backed event logging.
+- [Repo](https://github.com/DankDaPancake/email-tracking-poc)
 
-### 🖥️ Networking (Client–Server) — remote monitoring + livestream (C++)
-A client–server networking project featuring remote administration-style capabilities and a webcam livestream component.
-- Remote process monitoring and power controls
-- Keylogging (for authorized/educational monitoring)
-- OpenCV-based webcam streaming over TCP  
-Repo: https://github.com/dungta1610/Networking
-
-### 🧑‍💻 dang-portfolio — personal site
-My personal portfolio website built with Next.js.  
-Repo: https://github.com/DankDaPancake/dang-portfolio
+### 📚 Library Management System | *Clean Architecture Roast*
+**OOP & Design Patterns (C++)** A highly structured system emphasizing extensibility and clean design.
+- Applied **Strategy, Observer, and Decorator** patterns to handle complex library logic.
+- [Repo](https://github.com/DankDaPancake/LibraryManagementSystem)
 
 ---
 
-## Interests / What I like building
-- Real-time communication (SSE / streaming updates)
-- Web platforms and full-stack workflows
-- Systems programming + networking fundamentals
-- Tooling and prototypes that turn raw data into clear signals
+## 🍯 What’s Currently Brewing?
+- **Low-Level Systems:** Exploring the **xv6 kernel** and concurrent programming.
+- **AI from Scratch:** Re-implementing ML algorithms in **NumPy** to understand the "grind" of the math.
+- **Real-Time Fun:** Building a web-based version of the board game **Cashflow**.
 
-## Contact
-- GitHub: https://github.com/DankDaPancake
+## 🧬 Technical Palette
+* **Languages:** TypeScript, C++, C, Python, SQL.
+* **Frameworks:** Next.js (App Router), NestJS, Vue.js, Tailwind CSS.
+* **Tools:** Docker, PostgreSQL, Gemini API, Linux (WSL/Mint).
+
+---
+
+## 📬 Order a Collaboration
+- **GitHub:** [AleksanBrew](https://github.com/DankDaPancake) 
+- **Portfolio:** [aleksanbrew.dev](https://github.com/DankDaPancake/dang-portfolio) *(Work in progress)*
+
+> *"Turning complex logic into smooth experiences, one brew at a time."*
