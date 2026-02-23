@@ -1,6 +1,6 @@
 # ☕ AleksanBrew (Dang)
 
-**Sophomore IT Student @ [Your University] | AI & Full-Stack Developer**
+**Sophomore IT Student @ University of Science, VNU-HCM | Enthusiast and working towards AI Major**
 
 I’m a developer who treats software like a perfect milk coffee: it needs a **strong foundational core** (systems & logic) balanced with a **smooth, accessible finish** (UX & Web). I specialize in "brewing" raw data and messy inputs into clean, practical signals.
 
